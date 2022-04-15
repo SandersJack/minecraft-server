@@ -1,0 +1,19 @@
+version: "3"
+
+services:
+  server:
+    image: itzg/minecraft-server
+    ports:
+      - 35565:25565
+    environment:
+      MOTD: "Minecraft server for Emily and Jack"
+      EULA: "True"
+      MEMORY: "4G"
+      resart: always
+      ONLINE_MODE: "FALSE"
+      DIFFICULTY: "peaceful"
+    tty: True
+    stdin_open: True
+    volumes:
+      # attach a directory relative to the directory containing this compose file
+      - ./minecraft-data:/data

@@ -1,21 +1,15 @@
-[00:22:28] [Server thread/INFO]: munchiegirl1 has made the advancement [A Seedy Place]
-[00:34:57] [Server thread/INFO]: munchiegirl1 has made the advancement [Getting an Upgrade]
-[00:58:57] [Server thread/INFO]: wolfjds lost connection: Disconnected
-[00:58:57] [Server thread/INFO]: wolfjds left the game
-[00:58:58] [Server thread/INFO]: munchiegirl1 lost connection: Disconnected
-[00:58:58] [Server thread/INFO]: munchiegirl1 left the game
-[00:59:04] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:59:04] [Server thread/INFO]: save <--[HERE]
-[16:16:16] [User Authenticator #3/INFO]: UUID of player munchiegirl1 is 4f78d2d9-b47b-4401-9b01-c93f1a4177db
-[16:16:16] [Server thread/INFO]: munchiegirl1[/192.168.0.90:50600] logged in with entity id 26515 at (-175.80239970950876, 63.0, -328.93488435929874)
-[16:16:16] [Server thread/INFO]: munchiegirl1 joined the game
-[16:32:51] [User Authenticator #4/INFO]: UUID of player wolfjds is 5040296c-ccad-4ae7-b77d-c532870f7df2
-[16:32:51] [Server thread/INFO]: wolfjds[/192.168.0.196:56084] logged in with entity id 28115 at (-329.0189511251811, 86.0, -352.4865888903896)
-[16:32:51] [Server thread/INFO]: wolfjds joined the game
-[16:55:32] [Server thread/INFO]: [wolfjds: Teleported munchiegirl1 to wolfjds]
-[16:55:32] [Server thread/WARN]: munchiegirl1 moved too quickly! -251.1960129587003,12.0,358.8492703365746
-[17:04:26] [Server thread/INFO]: wolfjds has made the advancement [Sweet Dreams]
-[17:08:35] [Server thread/INFO]: munchiegirl1 lost connection: Disconnected
-[17:08:35] [Server thread/INFO]: munchiegirl1 left the game
-[17:09:13] [Server thread/INFO]: wolfjds lost connection: Disconnected
-[17:09:13] [Server thread/INFO]: wolfjds left the game
+[00:21:45] [Server thread/INFO]: wolfjds lost connection: Disconnected
+[00:21:45] [Server thread/INFO]: wolfjds left the game
+[00:39:53] [Server thread/INFO]: munchiegirl1 lost connection: Disconnected
+[00:39:53] [Server thread/INFO]: munchiegirl1 left the game
+[11:41:10] [User Authenticator #9/INFO]: UUID of player munchiegirl1 is 4f78d2d9-b47b-4401-9b01-c93f1a4177db
+[11:41:10] [Server thread/INFO]: munchiegirl1[/192.168.0.90:51700] logged in with entity id 86309 at (-199.6216341394259, 70.0, -332.48778617571304)
+[11:41:10] [Server thread/INFO]: munchiegirl1 joined the game
+[14:25:04] [Server thread/INFO]: [munchiegirl1: Set own game mode to Creative Mode]
+[14:28:37] [Server thread/INFO]: munchiegirl1 lost connection: Disconnected
+[14:28:37] [Server thread/INFO]: munchiegirl1 left the game
+[14:28:37] [Server thread/WARN]: handleDisconnection() called twice
+[14:28:43] [User Authenticator #10/INFO]: UUID of player munchiegirl1 is 4f78d2d9-b47b-4401-9b01-c93f1a4177db
+[14:28:43] [Server thread/INFO]: munchiegirl1[/192.168.0.90:51869] logged in with entity id 99352 at (-197.07260250945072, 75.33150060659288, -335.8520886246082)
+[14:28:43] [Server thread/INFO]: munchiegirl1 joined the game
+[14:34:46] [Server thread/INFO]: [munchiegirl1: Set own game mode to Survival Mode]
